@@ -1,0 +1,5 @@
+{
+  "name": "ConnectGuard AI",
+  "description": "An advanced Accident Detection System for Connected Vehicles. Utilizes real-time telemetry simulation and Gemini AI to detect accidents, analyze severity, and optimize emergency response times.",
+  "requestFramePermissions": []
+}
