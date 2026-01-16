@@ -36,7 +36,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/devilwonder/ConnectGuard-AI.git
    cd connectguard-ai
    ```
 
@@ -64,6 +64,9 @@
 ## 👨‍💻 Developed By
 
 **Pratik Pandey**  
+🌐 [pratikdev.tech](https://pratikdev.tech)  
+🐙 [github.com/devilwonder](https://github.com/devilwonder)  
+
 *Building the future of connected vehicle safety.*
 
 ---
@@ -71,4 +74,3 @@
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-# ConnectGuard-AI
