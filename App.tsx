@@ -117,13 +117,20 @@ const App: React.FC = () => {
 
       {/* Header */}
       <header className="flex items-center justify-between mb-6 shrink-0">
-        <div>
-          <h1 className="text-2xl font-bold tracking-tight bg-gradient-to-r from-neon-blue to-purple-500 bg-clip-text text-transparent">
-            ConnectGuard AI
-          </h1>
-          <p className="text-slate-400 text-xs font-mono mt-1">
-            CONNECTED VEHICLE ACCIDENT DETECTION SYSTEM V1.0
-          </p>
+        <div className="flex items-center gap-4">
+          <img
+            src="/pratik_logo.png"
+            alt="Logo"
+            className="w-12 h-12 rounded-xl border border-slate-700 shadow-lg shadow-neon-blue/10"
+          />
+          <div>
+            <h1 className="text-2xl font-bold tracking-tight bg-gradient-to-r from-neon-blue to-purple-500 bg-clip-text text-transparent">
+              ConnectGuard AI
+            </h1>
+            <p className="text-slate-400 text-xs font-mono mt-1 uppercase tracking-wider">
+              Connected Vehicle Accident Detection System v1.0
+            </p>
+          </div>
         </div>
         <div className="flex items-center gap-3">
           <button
